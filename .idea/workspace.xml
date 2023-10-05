@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6d8826a1-68f5-4acc-b39d-c817e7d1ecf0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Jump_To_Python/Chapter_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project/TEST.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/odds and ends/1111.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main_bar.py" beforeDir="false" />
+    <list default="true" id="6d8826a1-68f5-4acc-b39d-c817e7d1ecf0" name="Changes" comment="Creat File &amp; .py File">
+      <change beforePath="$PROJECT_DIR$/Jump_To_Python/Chapter_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/TEST.py" beforeDir="false" afterPath="$PROJECT_DIR$/TEST.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odds and ends/1111.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,10 +37,12 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/LGRnD/Desktop/Python_Study",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -80,11 +80,24 @@
       <updated>1696486697554</updated>
       <workItem from="1696486702142" duration="215000" />
       <workItem from="1696486932154" duration="5000" />
-      <workItem from="1696486963644" duration="337000" />
+      <workItem from="1696486963644" duration="766000" />
     </task>
+    <task id="LOCAL-00001" summary="Creat File &amp; .py File">
+      <option name="closed" value="true" />
+      <created>1696487347148</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1696487347148</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Creat File &amp; .py File" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creat File &amp; .py File" />
   </component>
 </project>
