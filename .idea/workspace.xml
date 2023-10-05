@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="6d8826a1-68f5-4acc-b39d-c817e7d1ecf0" name="Changes" comment="Creat File &amp; .py File">
-      <change beforePath="$PROJECT_DIR$/Jump_To_Python/Chapter_2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/TEST.py" beforeDir="false" afterPath="$PROJECT_DIR$/TEST.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/odds and ends/1111.py" beforeDir="false" />
-    </list>
+    <list default="true" id="6d8826a1-68f5-4acc-b39d-c817e7d1ecf0" name="Changes" comment="Create two file" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -80,7 +79,7 @@
       <updated>1696486697554</updated>
       <workItem from="1696486702142" duration="215000" />
       <workItem from="1696486932154" duration="5000" />
-      <workItem from="1696486963644" duration="766000" />
+      <workItem from="1696486963644" duration="1032000" />
     </task>
     <task id="LOCAL-00001" summary="Creat File &amp; .py File">
       <option name="closed" value="true" />
@@ -90,7 +89,23 @@
       <option name="project" value="LOCAL" />
       <updated>1696487347148</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Delete all file">
+      <option name="closed" value="true" />
+      <created>1696487766826</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1696487766826</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Create two file">
+      <option name="closed" value="true" />
+      <created>1696487904400</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1696487904400</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -98,6 +113,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Creat File &amp; .py File" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creat File &amp; .py File" />
+    <MESSAGE value="Delete all file" />
+    <MESSAGE value="Create two file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create two file" />
   </component>
 </project>
