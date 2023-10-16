@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6d8826a1-68f5-4acc-b39d-c817e7d1ecf0" name="Changes" comment="Create two file">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jump_To_Python/TEST.py" beforeDir="false" afterPath="$PROJECT_DIR$/Jump_To_Python/TEST.py" afterDir="false" />
-    </list>
+    <list default="true" id="6d8826a1-68f5-4acc-b39d-c817e7d1ecf0" name="Changes" comment="Create two file" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -84,7 +81,7 @@
       <workItem from="1696486932154" duration="5000" />
       <workItem from="1696486963644" duration="1032000" />
       <workItem from="1696488778145" duration="630000" />
-      <workItem from="1696562505541" duration="643000" />
+      <workItem from="1696562505541" duration="1338000" />
     </task>
     <task id="LOCAL-00001" summary="Creat File &amp; .py File">
       <option name="closed" value="true" />
@@ -118,7 +115,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696488797256</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Create two file">
+      <option name="closed" value="true" />
+      <created>1696564494784</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1696564494784</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
