@@ -108,7 +108,28 @@ user_input = input("저장할 내용을 입력하세요: ")
 f = open('C:/비둘기/test.txt', 'a')
 f.write(user_input)
 f.write("\n")
-f.close
+f.close()
 print("\n-----------------------")
 print("\n Q7 파일의 문자열 바꾸기")
-f = open('test')
+
+f = open('C:/비둘기/test.txt', 'w')
+f.write("Life is too short\nyou need java")
+f.close()
+f = open('C:/비둘기/test.txt', 'r')
+body = f.read()
+f.close()
+body = body.replace('java', 'python')
+f = open('C:/비둘기/test.txt', 'a')
+f.write("\n")
+f.write(body)
+
+f.close()
+print("\n-----------------------")
+print("\n Q8 입력값을 모두 더해 출력하기")
+import sys
+numbers3 = sys.argv[1:]
+result3 = 0
+for number5 in numbers3:
+    result3 += int(number5)
+print(result3)
+print("\n-----------------------")
